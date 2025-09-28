@@ -1,7 +1,6 @@
 {
   "name": "com.mumudza.github.autoskirt",
   "references": [
-    "VRC.SDK3A",
     "VRC.SDKBase"
   ],
   "includePlatforms": [],
