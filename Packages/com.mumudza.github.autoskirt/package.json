@@ -1,8 +1,8 @@
 {
   "name": "com.mumudza.github.autoskirt",
   "displayName": "com.mumudza.github.autoskirt",
-  "version": "0.0.1",
-  "description": "Describe this Package",
+  "version": "0.0.3",
+  "description": "Tool for generating physbones, physbone colliders for skirts in VRC avatars",
   "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {
